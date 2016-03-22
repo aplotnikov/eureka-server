@@ -1,4 +1,4 @@
-package com.home;
+package com.home.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
